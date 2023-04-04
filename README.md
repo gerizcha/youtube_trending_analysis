@@ -14,8 +14,9 @@ I HOPE IT WOULD HELP!
 -------------
 I am using lottts of libraries here, but guess what? 
 I only installed and imported ONE LIBRARY --- pyforest ---
-You will thank me later B-)
+You can thank me later B-)
 -------------
 
 Link dataset : https://drive.google.com/drive/folders/1JFhDSfs4vzWuCdsBFObEp5sVLQMo-dR1
+-
 Explanation video (in Bahasa) : https://youtu.be/5AW1cok8t1U
