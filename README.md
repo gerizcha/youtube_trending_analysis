@@ -17,5 +17,10 @@ I only installed and imported ONE LIBRARY --- pyforest ---
 You can thank me later B-)
 -------------
 
-Link dataset : https://drive.google.com/drive/folders/1JFhDSfs4vzWuCdsBFObEp5sVLQMo-dR1 and
+Also I have the tableau story (in English), you guys can check here<br>
+https://public.tableau.com/app/profile/gerizcha.aprilia.pardede/viz/CP2_Gerizcha_YouTubeTrendingAnalysis/Story1 <br>
+<br>
 Explanation video (in Bahasa) : https://youtu.be/5AW1cok8t1U
+<br>
+Link dataset : https://drive.google.com/drive/folders/1JFhDSfs4vzWuCdsBFObEp5sVLQMo-dR1
+
