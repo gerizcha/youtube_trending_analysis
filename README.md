@@ -13,7 +13,7 @@ I HOPE IT WOULD HELP!
 
 -------------
 I am using lottts of libraries here, but guess what? 
-I only installed and imported ONE LIBRARY ---> pyforest
+I only installed and imported ONE LIBRARY --- pyforest ---
 You will thank me later B-)
 -------------
 
