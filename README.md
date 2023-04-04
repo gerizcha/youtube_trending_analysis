@@ -17,6 +17,12 @@ I only installed and imported ONE LIBRARY --- pyforest ---
 You can thank me later B-)
 -------------
 
+-------------
+WARNING!<br>
+For better experience, you better download this (.ipynb) and run on your own. Have tried many times uploading but my visualizations which using Plotly Express are not displayed. 
+-------------
+
+
 Also I have the tableau story (in English), you guys can check here<br>
 https://public.tableau.com/app/profile/gerizcha.aprilia.pardede/viz/CP2_Gerizcha_YouTubeTrendingAnalysis/Story1 <br>
 <br>
